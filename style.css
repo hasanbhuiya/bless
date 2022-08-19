@@ -1,0 +1,35 @@
+.nav_bar {
+    width: auto;
+    height: 100px;
+    background-color: rgb(32, 28, 26);
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+}
+
+.bless_logo {
+    width: 50px;
+    padding-left: 80px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    align-items: center;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+
+}
